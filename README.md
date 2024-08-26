@@ -26,7 +26,7 @@ One other feature to implement in order to improve upon this app could be a sect
 
 Here's a walkthrough of implemented features:
 
-<img src='https://i.imgur.com/YGXPDtE.gif' title='Video Walkthrough' width='600' alt='Video Walkthrough' />
+<img src='[https://i.imgur.com/YGXPDtE.gif](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjR1dWx6MngzNnV1MzNrbWFsZ3VhaG5wZnl3emlpZm5uYnNyMzExMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Bmj8tVKBWLaClObHbM/giphy.gif)' title='Video Walkthrough' width='600' alt='Video Walkthrough' />
 
 
 <!-- Replace this with whatever GIF tool you used! -->
