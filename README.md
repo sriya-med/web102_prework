@@ -26,7 +26,7 @@ One other feature to implement in order to improve upon this app could be a sect
 
 Here's a walkthrough of implemented features:
 
-<img src='https://i.imgur.com/YGXPDtE.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/YGXPDtE.gif' title='Video Walkthrough' width='600' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with LiceCap
